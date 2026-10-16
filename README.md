@@ -14,7 +14,6 @@
 
 <a href="https://x.com/GaryAIytb"><img src="https://img.shields.io/badge/X-@GaryAIytb-000000?style=flat&logo=x&logoColor=white" height="28" alt="X @GaryAIytb"></a>
 <a href="assets/wechat-qr.jpg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Gary%E6%9B%B9%E6%B7%A6%E6%B2%B9%E7%AE%A1AI%E5%87%BA%E6%B5%B7-07C160?style=flat&logo=wechat&logoColor=white" height="28" alt="公众号 Gary曹淦油管AI出海"></a>
-<a href="https://showcase.ytdeepsea.com/"><img src="https://img.shields.io/badge/%E6%B7%B1%E6%B5%B7%E5%9C%88-%E5%9C%88%E5%8F%8B%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA-1E6FD9?style=flat" height="28" alt="深海圈圈友作品展示"></a>
 
 长文都发在公众号，微信扫码就能关注：
 
