@@ -2,12 +2,24 @@
 
 大家好，我是 Gary 曹淦，探索 AI 视频和内容出海两年的自媒体新人。
 
-现在在生财有术带 AI 视频深海圈，一个千人规模的 AI 创作者社群，大家一起在 YouTube 上做 AI 视频、做内容出海。社群里反复出现的活，我习惯用 AI 做成工具，能开源的都放在这里。
+现在在生财有术带 AI 视频深海圈，一个千人规模的 AI 创作者社群，大家一起在 YouTube 上做 AI 视频、做内容出海。做视频、写内容、带团队，反复出现的活我习惯用 AI 做成工具，能开源的都放在这里。
 
-### 开源项目
+### 最近更新
+
+- **2026-10-20** 开源 [二创工作台](https://github.com/garycaogan/creator-workbench) 和 [像素日记](https://github.com/garycaogan/pixel-diary)
+- **2026-10-19** 开源 [AI 实时直播间](https://github.com/garycaogan/ai-live-avatar)
+- **2026-10-16** [内容工作台](https://github.com/garycaogan/content-workbench) 能把长文做成竖屏口播视频，配音可以用自己的声音
+
+### AI 视频
+
+- **[AI 实时直播间 · ai-live-avatar](https://github.com/garycaogan/ai-live-avatar)**：让 AI 数字人自己开直播。弹幕先过滤再排队，她说完一句再接下一条，能聊天、换整套衣服、比心挥手，冷场了按自己的话题池暖场。
+- **[二创工作台 · creator-workbench](https://github.com/garycaogan/creator-workbench)**：做垂类二创视频的一条龙工具。找爆款、拆套路、换成自己的角色重新生成，再管账号矩阵、发布、回收数据，一个本机工具走完。
+- **[像素日记 · pixel-diary](https://github.com/garycaogan/pixel-diary)**：用代码复刻“像素角色 + 对话框”类爆款视频，比如 B 站的“AI 接管账号”系列。一集就是一个 JSON 文件，还附了一份 Claude Code 的复刻方法 skill。
+
+### AI 协作和内容
 
 - **[借脑 · agent-peer-bridge](https://github.com/garycaogan/agent-peer-bridge)**：把团队里 AI 用得最好的那个人的 AI，借给每个人。Claude Code 和 Codex 跨机器互相开会话、接着聊，每个人的权限单独设。
-- **[内容工作台 · content-workbench](https://github.com/garycaogan/content-workbench)**：把会议、录音、文档变成文章，划词批注改稿，一键推进公众号、X 长文和知识星球草稿箱。
+- **[内容工作台 · content-workbench](https://github.com/garycaogan/content-workbench)**：把会议、录音、文档变成文章，划词批注改稿，一键推进公众号、X 长文和知识星球草稿箱；长文还能做成竖屏口播视频。
 - **[深海圈 Codex 额度管理](https://github.com/garycaogan/shenhaiquan-codex-quota-manager)**：在本地管理多个 Codex 账号的额度、重置时间和 Token 消耗。
 
 ### 在别处找我
