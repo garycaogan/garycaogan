@@ -7,7 +7,7 @@
 ### 最近更新
 
 - **2026-10-23** 上线 [AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)，每天早上更新，打开就能看
-- **2026-10-20** 开源 [二创工作台](https://github.com/garycaogan/creator-workbench) 和 [像素日记](https://github.com/garycaogan/pixel-diary)
+- **2026-10-20** 开源 [像素日记](https://github.com/garycaogan/pixel-diary)
 - **2026-10-19** 开源 [AI 实时直播间](https://github.com/garycaogan/ai-live-avatar)
 
 ### 打开就能用
@@ -17,7 +17,6 @@
 ### AI 视频
 
 - **[AI 实时直播间 · ai-live-avatar](https://github.com/garycaogan/ai-live-avatar)**：让 AI 数字人自己开直播。弹幕先过滤再排队，她说完一句再接下一条，能聊天、换整套衣服、比心挥手，冷场了按自己的话题池暖场。
-- **[二创工作台 · creator-workbench](https://github.com/garycaogan/creator-workbench)**：做垂类二创视频的一条龙工具。找爆款、拆套路、换成自己的角色重新生成，再管账号矩阵、发布、回收数据，一个本机工具走完。
 - **[像素日记 · pixel-diary](https://github.com/garycaogan/pixel-diary)**：用代码复刻“像素角色 + 对话框”类爆款视频，比如 B 站的“AI 接管账号”系列。一集就是一个 JSON 文件，还附了一份 Claude Code 的复刻方法 skill。
 
 ### AI 协作和内容
