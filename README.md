@@ -6,13 +6,13 @@
 
 ### 最近更新
 
+- **2026-10-24** 开源 [AI 情报站](https://github.com/garycaogan/intel-radar)，可以自己部署、改成盯别的赛道
 - **2026-10-23** 上线 [AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)，每天早上更新，打开就能看
 - **2026-10-20** 开源 [像素日记](https://github.com/garycaogan/pixel-diary)
-- **2026-10-19** 开源 [AI 实时直播间](https://github.com/garycaogan/ai-live-avatar)
 
 ### 打开就能用
 
-- **[AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)**：每天早上自动扫一遍 B 站、YouTube、抖音、TikTok、小红书、X 和 GitHub，挑出 AI 和 AI 视频圈当天冒头的题材、热议和新工具，告诉你哪些值得马上测，每一条都写了判断依据，视频点开就能看。
+- **[AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)**：每天早上自动扫一遍 B 站、YouTube、抖音、TikTok、小红书、X 和 GitHub，挑出 AI 和 AI 视频圈当天冒头的题材、热议和新工具，告诉你哪些值得马上测，每一条都写了判断依据，视频点开就能看。代码开源在 [intel-radar](https://github.com/garycaogan/intel-radar)，自备 TikHub 和大模型接口就能自己跑一套。
 
 ### AI 视频
 
