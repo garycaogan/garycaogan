@@ -6,9 +6,9 @@
 
 ### 最近更新
 
+- **2026-10-27** 开源 [换人翻拍](https://github.com/garycaogan/mv-swap) 和 [H3 参考图出片](https://github.com/garycaogan/h3-ref-video)，在 RunningHub 上用 MiniMax H3 做 AI 视频
 - **2026-10-24** 开源 [AI 情报站](https://github.com/garycaogan/intel-radar)，可以自己部署、改成盯别的赛道
 - **2026-10-23** 上线 [AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)，每天早上更新，打开就能看
-- **2026-10-20** 开源 [像素日记](https://github.com/garycaogan/pixel-diary)
 
 ### 打开就能用
 
@@ -16,6 +16,8 @@
 
 ### AI 视频
 
+- **[换人翻拍 · mv-swap](https://github.com/garycaogan/mv-swap)**：给一条高清原片（MV、舞蹈）和几张角色图，自动切镜头、认人、在 RunningHub 上用 MiniMax H3 换人、审片重跑、超分拼片，出成片和成本报告。
+- **[H3 参考图出片 · h3-ref-video](https://github.com/garycaogan/h3-ref-video)**：像给 Seedance 写提示词那样用 MiniMax H3 出视频，中文分镜自动改成官方格式，每个镜头先画一张分镜图垫给 H3，一份分镜脚本出整条片。
 - **[AI 实时直播间 · ai-live-avatar](https://github.com/garycaogan/ai-live-avatar)**：让 AI 数字人自己开直播。弹幕先过滤再排队，她说完一句再接下一条，能聊天、换整套衣服、比心挥手，冷场了按自己的话题池暖场。
 - **[像素日记 · pixel-diary](https://github.com/garycaogan/pixel-diary)**：用代码复刻“像素角色 + 对话框”类爆款视频，比如 B 站的“AI 接管账号”系列。一集就是一个 JSON 文件，还附了一份 Claude Code 的复刻方法 skill。
 
