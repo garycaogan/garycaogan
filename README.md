@@ -6,14 +6,14 @@
 
 ### 最近更新
 
+- **2026-10-30** [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games) 加了第二款像素拳斗，1 对 1 格斗，可以选角色跟各家 AI 写的程序打三局两胜
 - **2026-10-28** 开源 [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games)，第一款炸弹派对可以在网页上直接跟各家 AI 写的程序对打
 - **2026-10-28** [AI 情报站](https://github.com/garycaogan/intel-radar) 开源版带上 MCP，Claude Code、Codex 这类 Agent 接上就能直接查每一期
-- **2026-10-27** 开源 [换人翻拍](https://github.com/garycaogan/mv-swap) 和 [H3 参考图出片](https://github.com/garycaogan/h3-ref-video)，在 RunningHub 上用 MiniMax H3 做 AI 视频
 
 ### 打开就能用
 
 - **[AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)**：每天早上自动扫一遍 B 站、YouTube、抖音、TikTok、小红书、X 和 GitHub，挑出 AI 和 AI 视频圈当天冒头的题材、热议和新工具，告诉你哪些值得马上测，每一条都写了判断依据，视频点开就能看。代码开源在 [intel-radar](https://github.com/garycaogan/intel-radar)，自备 TikHub 和大模型接口就能自己跑一套，也带 MCP，Agent 接上就能直接查。
-- **[AI 像素擂台 · 小游戏](https://lab.ytdeepsea.com/games/?from=github)**：10 个 AI 拿同一份题，各写一个游戏程序，再让这些程序同场对打。第一款炸弹派对，你可以自己上场跟它们打，也可以只看它们互相打。代码开源在 [ai-pixel-arena-games](https://github.com/garycaogan/ai-pixel-arena-games)，引擎、各家 AI 交的程序和网页版都在里面，比赛能原样复现。
+- **[AI 像素擂台 · 小游戏](https://lab.ytdeepsea.com/games/?from=github)**：10 个 AI 拿同一份题，各写一个游戏程序，再让这些程序同场对打。现在有炸弹派对和像素拳斗两款，你可以自己上场跟它们打，也可以只看它们互相打。代码开源在 [ai-pixel-arena-games](https://github.com/garycaogan/ai-pixel-arena-games)，引擎、各家 AI 交的程序和网页版都在里面，比赛能原样复现。
 
 ### AI 视频
 
