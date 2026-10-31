@@ -6,9 +6,9 @@
 
 ### 最近更新
 
+- **2026-10-31** 开源 [AI 像素擂台](https://github.com/garycaogan/ai-pixel-arena) 第 1 集贪吃蛇的全流程，从出题、收程序、跑比赛到出片都能照着复现
 - **2026-10-30** [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games) 加了第二款像素拳斗，1 对 1 格斗，可以选角色跟各家 AI 写的程序打三局两胜
 - **2026-10-28** 开源 [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games)，第一款炸弹派对可以在网页上直接跟各家 AI 写的程序对打
-- **2026-10-28** [AI 情报站](https://github.com/garycaogan/intel-radar) 开源版带上 MCP，Claude Code、Codex 这类 Agent 接上就能直接查每一期
 
 ### 打开就能用
 
@@ -17,6 +17,7 @@
 
 ### AI 视频
 
+- **[AI 像素擂台 · ai-pixel-arena](https://github.com/garycaogan/ai-pixel-arena)**：10 个 AI 拿一字不差的同一份提示词，各写一个贪吃蛇程序同场对打。第 1 集的提示词、裁判、各家交上来的原版程序、8470 局记录、评分、分镜和出片脚本都在里面，比赛和视频都能原样复现，换个游戏就是新的一期。
 - **[换人翻拍 · mv-swap](https://github.com/garycaogan/mv-swap)**：给一条高清原片（MV、舞蹈）和几张角色图，自动切镜头、认人、在 RunningHub 上用 MiniMax H3 换人、审片重跑、超分拼片，出成片和成本报告。
 - **[H3 参考图出片 · h3-ref-video](https://github.com/garycaogan/h3-ref-video)**：像给 Seedance 写提示词那样用 MiniMax H3 出视频，中文分镜自动改成官方格式，每个镜头先画一张分镜图垫给 H3，一份分镜脚本出整条片。
 - **[AI 实时直播间 · ai-live-avatar](https://github.com/garycaogan/ai-live-avatar)**：让 AI 数字人自己开直播。弹幕先过滤再排队，她说完一句再接下一条，能聊天、换整套衣服、比心挥手，冷场了按自己的话题池暖场。
