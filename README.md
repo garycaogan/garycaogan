@@ -6,13 +6,13 @@
 
 ### 最近更新
 
+- **2026-11-04** [AI 情报站](https://github.com/garycaogan/intel-radar) 加了热点时间线，前后各半年的 AI 视频和 AI 大事分两条线排好，还能看过去一年的大热点在 YouTube 上火了多久，MCP 也能直接查
 - **2026-10-31** 开源 [AI 像素擂台](https://github.com/garycaogan/ai-pixel-arena) 第 1 集贪吃蛇的全流程，从出题、收程序、跑比赛到出片都能照着复现
 - **2026-10-30** [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games) 加了第二款像素拳斗，1 对 1 格斗，可以选角色跟各家 AI 写的程序打三局两胜
-- **2026-10-28** 开源 [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games)，第一款炸弹派对可以在网页上直接跟各家 AI 写的程序对打
 
 ### 打开就能用
 
-- **[AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)**：每天早上自动扫一遍 B 站、YouTube、抖音、TikTok、小红书、X 和 GitHub，挑出 AI 和 AI 视频圈当天冒头的题材、热议和新工具，告诉你哪些值得马上测，每一条都写了判断依据，视频点开就能看。代码开源在 [intel-radar](https://github.com/garycaogan/intel-radar)，自备 TikHub 和大模型接口就能自己跑一套，也带 MCP，Agent 接上就能直接查。
+- **[AI 情报站](https://lab.ytdeepsea.com/radar/?from=github)**：每天早上自动扫一遍 B 站、YouTube、抖音、TikTok、小红书、X 和 GitHub，挑出 AI 和 AI 视频圈当天冒头的题材、热议和新工具，告诉你哪些值得马上测，每一条都写了判断依据，视频点开就能看；还有一张[热点时间线](https://lab.ytdeepsea.com/radar/timeline/?from=github)，大片、游戏、模型发布这些大热点提前半年就能看到。代码开源在 [intel-radar](https://github.com/garycaogan/intel-radar)，自备 TikHub 和大模型接口就能自己跑一套，也带 MCP，Agent 接上就能直接查。
 - **[AI 像素擂台 · 小游戏](https://lab.ytdeepsea.com/games/?from=github)**：10 个 AI 拿同一份题，各写一个游戏程序，再让这些程序同场对打。现在有炸弹派对和像素拳斗两款，你可以自己上场跟它们打，也可以只看它们互相打。代码开源在 [ai-pixel-arena-games](https://github.com/garycaogan/ai-pixel-arena-games)，引擎、各家 AI 交的程序和网页版都在里面，比赛能原样复现。
 
 ### AI 视频
