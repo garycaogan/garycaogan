@@ -6,9 +6,9 @@
 
 ### 最近更新
 
+- **2026-11-10** [内容工作台](https://github.com/garycaogan/content-workbench) 的长文里能放视频和表格，一键推到公众号、X 长文和知识星球的草稿箱；长文做成的口播视频能出竖屏和横屏两版，标题、简介和封面写好后直接发到 X 或公众号
 - **2026-11-04** [AI 情报站](https://github.com/garycaogan/intel-radar) 加了热点时间线，前后各半年的 AI 视频和 AI 大事分两条线排好，还能看过去一年的大热点在 YouTube 上火了多久，MCP 也能直接查
 - **2026-10-31** 开源 [AI 像素擂台](https://github.com/garycaogan/ai-pixel-arena) 第 1 集贪吃蛇的全流程，从出题、收程序、跑比赛到出片都能照着复现
-- **2026-10-30** [AI 像素擂台 · 小游戏](https://github.com/garycaogan/ai-pixel-arena-games) 加了第二款像素拳斗，1 对 1 格斗，可以选角色跟各家 AI 写的程序打三局两胜
 
 ### 打开就能用
 
@@ -26,7 +26,7 @@
 ### AI 协作和内容
 
 - **[借脑 · agent-peer-bridge](https://github.com/garycaogan/agent-peer-bridge)**：把团队里 AI 用得最好的那个人的 AI，借给每个人。Claude Code 和 Codex 跨机器互相开会话、接着聊，每个人的权限单独设。
-- **[内容工作台 · content-workbench](https://github.com/garycaogan/content-workbench)**：把会议、录音、文档变成文章，划词批注改稿，一键推进公众号、X 长文和知识星球草稿箱；长文还能做成竖屏口播视频。
+- **[内容工作台 · content-workbench](https://github.com/garycaogan/content-workbench)**：把会议、录音、文档变成文章，划词批注改稿，正文能放图片、视频和表格，一键推进公众号、X 长文和知识星球草稿箱；长文还能做成竖屏和横屏的口播视频。
 - **[深海圈 Codex 额度管理](https://github.com/garycaogan/shenhaiquan-codex-quota-manager)**：在本地管理多个 Codex 账号的额度、重置时间和 Token 消耗。
 
 ### 在别处找我
