@@ -6,9 +6,9 @@
 
 ### 最近更新
 
+- **2026-11-14** 开源 [一镜到底：万物的一生](https://github.com/garycaogan/lifecycle-oneshot)，让 Agent 把一种植物或动物的一辈子拍成一个不切的竖屏长镜头，写稿、配音、关键帧、H3 首尾帧出片到剪辑审片一条龙
 - **2026-11-10** [内容工作台](https://github.com/garycaogan/content-workbench) 的长文里能放视频和表格，一键推到公众号、X 长文和知识星球的草稿箱；长文做成的口播视频能出竖屏和横屏两版，标题、简介和封面写好后直接发到 X 或公众号
 - **2026-11-04** [AI 情报站](https://github.com/garycaogan/intel-radar) 加了热点时间线，前后各半年的 AI 视频和 AI 大事分两条线排好，还能看过去一年的大热点在 YouTube 上火了多久，MCP 也能直接查
-- **2026-10-31** 开源 [AI 像素擂台](https://github.com/garycaogan/ai-pixel-arena) 第 1 集贪吃蛇的全流程，从出题、收程序、跑比赛到出片都能照着复现
 
 ### 打开就能用
 
@@ -17,6 +17,7 @@
 
 ### AI 视频
 
+- **[一镜到底：万物的一生 · lifecycle-oneshot](https://github.com/garycaogan/lifecycle-oneshot)**：视频号、抖音上那种「竹子的一生」自然科普片，一种植物或动物从土里长到开花结果再回到开头，一个镜头不切，旁白一句一个阶段、念到名字出大字、穿插古诗和出处。关键帧一张接一张改，MiniMax H3 用首帧加尾帧逐段接成长镜头，一条 114 秒的片子走通一遍第三方花费 18.56 元。
 - **[AI 像素擂台 · ai-pixel-arena](https://github.com/garycaogan/ai-pixel-arena)**：10 个 AI 拿一字不差的同一份提示词，各写一个贪吃蛇程序同场对打。第 1 集的提示词、裁判、各家交上来的原版程序、8470 局记录、评分、分镜和出片脚本都在里面，比赛和视频都能原样复现，换个游戏就是新的一期。
 - **[换人翻拍 · mv-swap](https://github.com/garycaogan/mv-swap)**：给一条高清原片（MV、舞蹈）和几张角色图，自动切镜头、认人、在 RunningHub 上用 MiniMax H3 换人、审片重跑、超分拼片，出成片和成本报告。
 - **[H3 参考图出片 · h3-ref-video](https://github.com/garycaogan/h3-ref-video)**：像给 Seedance 写提示词那样用 MiniMax H3 出视频，中文分镜自动改成官方格式，每个镜头先画一张分镜图垫给 H3，一份分镜脚本出整条片。
