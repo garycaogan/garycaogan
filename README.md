@@ -6,9 +6,9 @@
 
 ### 最近更新
 
+- **2026-11-19** 开源 [HyperFrames 云渲染](https://github.com/garycaogan/gary-hf-cloud-render)，把视频放到自己的 Google Cloud Run 上渲，11 分钟的片子 14 分钟渲完；还算了 AI Ultra 每月送的 100 美元额度大概能渲多少片
 - **2026-11-16** 借脑改名叫 [AI link](https://github.com/garycaogan/gary-ai-link)，中文英文都好记；开源仓库名统一加了 gary- 前缀，旧链接会自动跳到新地址
 - **2026-11-14** 开源 [一镜到底：万物的一生](https://github.com/garycaogan/gary-lifecycle-oneshot)，让 Agent 把一种植物或动物的一辈子拍成一个不切的竖屏长镜头，写稿、配音、关键帧、H3 首尾帧出片到剪辑审片一条龙
-- **2026-11-10** [内容工作台](https://github.com/garycaogan/gary-content-workbench) 的长文里能放视频和表格，一键推到公众号、X 长文和知识星球的草稿箱；长文做成的口播视频能出竖屏和横屏两版，标题、简介和封面写好后直接发到 X 或公众号
 
 ### 打开就能用
 
@@ -22,6 +22,7 @@
 - **[换人翻拍 · gary-mv-swap](https://github.com/garycaogan/gary-mv-swap)**：给一条高清原片（MV、舞蹈）和几张角色图，自动切镜头、认人、在 RunningHub 上用 MiniMax H3 换人、审片重跑、超分拼片，出成片和成本报告。
 - **[H3 参考图出片 · gary-h3-ref-video](https://github.com/garycaogan/gary-h3-ref-video)**：像给 Seedance 写提示词那样用 MiniMax H3 出视频，中文分镜自动改成官方格式，每个镜头先画一张分镜图垫给 H3，一份分镜脚本出整条片。
 - **[AI 实时直播间 · gary-ai-live-avatar](https://github.com/garycaogan/gary-ai-live-avatar)**：让 AI 数字人自己开直播。弹幕先过滤再排队，她说完一句再接下一条，能聊天、换整套衣服、比心挥手，冷场了按自己的话题池暖场。
+- **[HyperFrames 云渲染 · gary-hf-cloud-render](https://github.com/garycaogan/gary-hf-cloud-render)**：本机渲长片内存不够，就把 HyperFrames 视频丢到自己的 Google Cloud Run 上，10 台机器同时渲，空闲时不收算力钱。附部署步骤、上云前体检、一条命令渲染和画质对比脚本，以及按实测单价算的 AI Ultra 每月 100 美元额度能出多少片。
 - **[像素日记 · gary-pixel-diary](https://github.com/garycaogan/gary-pixel-diary)**：用代码复刻“像素角色 + 对话框”类爆款视频，比如 B 站的“AI 接管账号”系列。一集就是一个 JSON 文件，还附了一份 Claude Code 的复刻方法 skill。
 
 ### AI 协作和内容
